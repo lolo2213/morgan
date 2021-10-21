@@ -1,0 +1,361 @@
+body {
+  box-sizing: border-box;
+}
+
+header {
+  background-image: url(../photos/2.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+.navbar-font a {
+  color: white;
+  font-weight: 600;
+  font-size: 19px;
+}
+
+.special {
+  font-weight: 900;
+  font-size: 40px;
+}
+.layer {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+}
+
+.note {
+  font-size: 80px;
+  margin-top: 12rem;
+}
+
+.part {
+  background-color: rgb(246, 245, 245);
+}
+
+.scopes {
+  overflow: hidden;
+}
+
+.scope {
+  float: left;
+}
+
+.design h5 {
+  display: inline-block;
+  line-height: 2rem;
+}
+
+.design li {
+  list-style-type: none;
+}
+
+.line {
+  width: 100px;
+  height: 3px;
+}
+
+.decore {
+  font-size: 20px;
+  width: 90%;
+}
+
+.prt {
+  background-color: rgb(246, 245, 245);
+}
+
+.line1 {
+  width: 80px;
+  height: 5px;
+  top: 0.5rem;
+  left: 32rem;
+}
+
+.skill {
+  float: left;
+  line-height: 3rem;
+}
+
+.skills {
+  margin-left: 90%;
+  line-height: 3rem;
+}
+
+.service h2 {
+  font-size: 50px;
+}
+
+.service p {
+  font-size: 18px;
+}
+
+.service1 {
+  border-radius: 5%;
+}
+
+.service1 p {
+  font-size: 18px;
+}
+
+.service1:hover .icon1 {
+  background-color: #007bff;
+  color: white;
+  border: 10px rgba(255, 255, 255, 0.671) solid;
+}
+
+.icon1 {
+  font-size: 50px;
+  border: 10px #007bff solid;
+  border-radius: 50%;
+}
+
+.layer1 {
+  background-image: url(../photos/1.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  height: 70vh;
+}
+
+.layer2 {
+  background-color: #0077ffa6;
+  height: 100%;
+}
+
+.icon2 {
+  font-size: 30px;
+  border: 10px rgba(255, 255, 255, 0.671) solid;
+  border-radius: 50%;
+}
+
+.portfolo {
+  background-color: rgb(246, 245, 245);
+}
+
+.line3 {
+  width: 80px;
+  height: 5px;
+  top: 0.5rem;
+  left: 45rem;
+}
+
+.portfolo h2 {
+  font-size: 50px;
+}
+
+.portfolo p {
+  font-size: 18px;
+}
+
+.clinte {
+  overflow: auto;
+}
+.clinte1 {
+  overflow: hidden;
+}
+
+.clinte1 img {
+  transition: 1s transform ease-in-out;
+}
+
+.clinte1:hover img {
+  transform: scale(1.3, 1.3);
+}
+
+.pro-icon {
+  font-size: 35px;
+  color: #007bff;
+  float: right;
+}
+
+.diff {
+  color: black;
+}
+
+.slider {
+  background-image: url(../photos/3.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
+.slide1 p {
+  font-size: larger;
+}
+
+.slide {
+  background-color: #0077ff75;
+  height: 100%;
+  color: white;
+}
+
+.slide2 {
+  left: 44%;
+}
+
+.slide-icon {
+  color: #053164;
+  font-size: 25px;
+  border: 8px white solid;
+  border-radius: 50%;
+}
+
+.blog {
+  background-color: rgb(246, 245, 245);
+}
+
+.blog h2 {
+  font-size: 50px;
+}
+
+.blog p {
+  font-size: 18px;
+}
+
+.card {
+  overflow: hidden;
+}
+
+.card-photo {
+  width: 10%;
+  height: 5vh;
+  float: left;
+}
+
+.medium {
+  color: white;
+  background-color: #007bff;
+  width: 25%;
+  text-align: center;
+  top: 47%;
+  left: 37%;
+}
+
+.medium1 {
+  color: white;
+  background-color: #007bff;
+  width: 35%;
+  text-align: center;
+  top: 47%;
+  left: 34%;
+}
+
+.card-footer {
+  background-color: rgb(243, 243, 243);
+}
+
+.card-footer:hover a {
+  color: #007bff;
+}
+
+.card-footer h5 {
+  float: left;
+}
+
+.card-footer a {
+  color: black;
+}
+
+.card-footer h6 {
+  float: right;
+}
+
+.card-icon {
+  font-size: 20px;
+  float: right;
+}
+
+.end {
+  background-image: url(../photos/3.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  height: 180vh;
+}
+
+.end-layer {
+  background-color: #007bff9b;
+  height: 180vh;
+}
+
+.end-line {
+  width: 100px;
+  height: 3px;
+  background-color: #007bff;
+}
+
+.duttn {
+  font-size: 22px;
+}
+
+.bar {
+  font-size: 21px;
+}
+
+.end2 {
+  overflow: auto;
+}
+
+.Touch-icon {
+  float: left;
+  margin-right: 1rem;
+  color: #007bff;
+}
+
+.finals:hover i {
+  background-color: #007bff;
+  color: white;
+  border: 3px rgba(255, 255, 255, 0.671) solid;
+}
+
+.finals {
+  color: black;
+}
+
+.final {
+  font-size: 26px;
+  border: 3px #007bff solid;
+  border-radius: 50%;
+}
+
+@media (max-width: 1024px) and (min-width: 770px) {
+  header {
+    height: 50vh;
+  }
+  .layer {
+    height: 50vh;
+  }
+  .line1 {
+    top: 0.5rem;
+    left: 27rem;
+  }
+  .layer1 {
+    height: 40vh;
+  }
+  .icon2 {
+    margin-top: 5rem;
+  }
+  .line3 {
+    top: 0.5rem;
+    left: 30rem;
+  }
+  .slider {
+    height: 50vh;
+  }
+  .medium {
+    top: 92%;
+  }
+  .medium1 {
+    top: 93%;
+    font-size: small;
+  }
+  .medium2 {
+    top: 93%;
+    font-size: small;
+  }
+  .end-layer {
+    height: 70vh;
+  }
+  .end {
+    height: 70vh;
+  }
+}
